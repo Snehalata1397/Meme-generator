@@ -45,6 +45,7 @@ body {
   border: none;
   color: white;
   cursor: pointer;
+  font-size: 1rem;
 }
 
 .form-input {
@@ -52,6 +53,7 @@ body {
   border-radius: 5px;
   border: 1px solid #d5d4d8;
   text-indent: 5px;
+  font-size: 1rem;
 }
 
 img.meme-image {
